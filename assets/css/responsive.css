@@ -1,0 +1,326 @@
+/*--------------------------------------------------
+    ## All responsive style
+---------------------------------------------------*/
+@media (min-width: 1600px) {
+	.banner-social {
+	    bottom: 190px;
+	}
+	.saeyha-tab-wrap {
+	    background-size: 56% 100%;
+	}
+}
+@media (max-width: 1599px) {
+	.saeyha-tab-wrap {
+	    background-size: 82% 100%;
+	}
+	.contact-area {
+		margin-top: 80px;
+	}
+	#section3 .form-shape-1 {
+        top: -61px;
+	    width: 63%;
+	    height: 136%;
+	}
+	#section3 .form-shape-2 {
+	    position: absolute;
+	    right: 0;
+	    top: -95px;
+	}
+	.saeyha-slider-wrap {
+	    background-size: 81% 85%;
+	    padding: 133px 0 253px 0;
+	    background-repeat: no-repeat;
+	    background-position: 19% 42px;
+	}
+	#section1 .banner-shape-1 {
+	    top: -40px;
+	}
+	.about-widget-wrap {
+		padding-left: 50px;
+	}
+	.widget_nav_menu_wrap {
+		padding-top: 120px;
+	}
+	#section1 .banner-shape-2 {
+	    position: absolute;
+	    right: 0;
+	    top: -8px;
+	    width: 42%;
+	}
+}
+@media (min-width: 1200px) {
+	.service-area {
+		padding-top: 150px;
+	}
+	.service-single-inner {
+	    margin-top: -88px;
+	}
+}
+@media (max-width: 991px) {
+	.btn {
+		height: 20px;
+		font-size: 7.9px;
+		line-height: 19px !important;
+		padding: 0 10px;
+	}
+	.menu-inner-wrap .menu-close {
+	    right: 30px;
+	    top: 40px;
+	}
+	.navbar-area {
+	    padding: 15px 0;
+	}
+	.banner-area {
+	    padding: 0 30px;
+	}
+	.banner-inner-wrap h2 {
+	    font-size: 33px;
+	    margin-top: 12px;
+	    padding-top: 0;
+	    line-height: 45.77px;
+	}
+	.banner-inner-wrap h2 span {
+		font-size: 16px;
+		line-height: 22.88px;
+	}
+	.banner-inner-wrap h4 {
+	    font-size: 15.33px;
+        line-height: 21.33px;
+	}
+	.banner-inner-wrap p {
+		font-size: 9px;
+		margin-bottom: 11px;
+	}
+	.banner-social {
+	    bottom: -107px;
+	    left: -83px;
+	}
+	#section1 .banner-shape-2 {
+        top: 0;
+	    width: 100%;
+	    right: 0;
+	}
+	#section1 .banner-shape-1 {
+	    top: 202px;
+	    width: 100%;
+	}
+	.service-inner-wrap {
+	    padding-left: 0;
+	    padding-top: 0;
+	    margin-top: 0;
+	}
+	.service-single-inner {
+		padding-left: 40px;
+	}
+	.service-single-inner .btn {
+	    padding: 0 27px;
+	}
+	.saeyha-tab-content {
+	    border-right: 4px solid #FFFFFF;
+	    padding: 56px 10px 40px 40px;
+	}
+	.service-single-inner h4 {
+	    font-size:16px;
+	    margin-bottom: 10px;
+	}
+	.service-single-inner .btn {
+	    margin-top: 10px;
+	}
+	.service-single-inner p {
+	    font-size: 16px;
+	    line-height: 19px;
+	}
+	.saeyha-tab-wrap {
+		margin-top: 124px !important;
+	}
+	#section2 .service-shape-3 {
+	    top: 49%;
+	    left: 17%;
+	}
+	.saeyha-tab-content {
+	    max-width: 290px;
+	    position: absolute;
+	}
+	.saeyha-tab-content p {
+	    font-size: 12px;
+	}
+	.saeyha-tab-inner li a {
+	    font-size: 9px;
+	}
+	.saeyha-tab-inner li {
+	    margin-bottom: 4px !important;
+	}
+	.saeyha-tab-wrap {
+	    background-size: 112% 100%;
+	}
+	#section3 .form-shape-1 {
+	    top: -229px;
+	    width: 100%;
+	    height: 132%;
+	}
+
+
+	.contact-form-wrap form {
+        padding: 0 0;
+    }
+	.contact-area h2 {
+	    font-size: 33px;
+        margin-top: 10px;
+        padding: 0 25px;
+	}
+	.contact-area h2 span {
+		font-size: 22px;
+	}
+	.contact-form-wrap {
+		padding: 0 93px;
+	}
+	.contact-area form input {
+	    border: 1px solid #000000;
+	    height: 20px;
+	    margin-bottom: 11px;
+	}
+	.contact-area textarea {
+	    border: 1px solid #000000;
+	    height: 49px;
+	    margin-bottom: 14px;
+	}
+	.contact-form-wrap .btn {
+	    padding: 0px 26px;
+	}
+	.experience-slider {
+		padding: 0 30px 0 0;
+	}
+	.experience-slider .owl-next {
+	    position: absolute;
+	    right: 0;
+	    bottom: -26px;
+	}
+	.experience-shape-2 {
+		display: none;
+	}
+	.widget_nav_menu_wrap {
+		display: none;
+	}
+	.about-widget {
+	    margin-top: 80px;
+	}
+	#section5 {
+	    background-repeat: no-repeat;
+	    background-position: bottom;
+	    background-size: 254% 149%;
+	    padding-top: 80px;
+	}
+	.experience-slider p {
+	    font-size: 10px;
+	    line-height: 12px;
+	}
+	.section-title h3 {
+	    font-size: 16px;
+	}
+	.section-title img {
+		width: 98px;
+	}
+	.saeyha-slider-wrap {
+        background-size: 162% 79%;
+	    padding: 88px 0 99px 0;
+	    background-repeat: no-repeat;
+	    background-position: -197px 43%;
+	}
+	.experience-slider .owl-next img {
+		width: 45px;
+	}
+	.dropdown-menu-btn .line {
+	    width: 40px;
+	    height: 4px;
+	}
+	.dropdown-menu-btn .line:nth-child(2) {
+	    width: 28px;
+	}
+	.saeyha-tab-content h4 {
+	    font-size: 16px;
+	}
+
+	#section2 .service-shape-1 {
+	    display: none;
+	}
+	.service-inner-wrap {
+		background-image: url("../../assets/img/service/1.png");
+	    background-size: 170%;
+	    background-position: 17% 8%;
+	    background-repeat: no-repeat;
+	    padding-top: 160px;
+	}
+	#section3 .form-shape-1,
+	#section3 .form-shape-2 {
+	    display: none;
+	}
+	.contact-form-wrap .section-title h3 {
+		font-size: 13.54px;
+	    letter-spacing: 1.5px;
+	}
+	.contact-area {
+	    margin-top:  35px;
+	}
+	.contact-form-wrap {
+	    background-image: url("../../assets/img/form/1.png");
+        background-size: 136%;
+	    background-position: 7% 44%;
+	    background-repeat: no-repeat;
+	    padding-bottom: 100px;
+	    padding-top: 97px;
+	}
+	.contact-area {
+	    background-image: url("../../assets/img/form/2.png");
+        background-size: 171%;
+	    background-position: 100% 104%;
+	    background-repeat: no-repeat;
+	    padding-bottom: 125px;
+	}
+	.experience-slider .name {
+		text-align: center;
+	}
+
+	#section1 .banner-shape-1,
+	#section1 .banner-shape-2 {
+	    display: none;
+	}
+	.banner-area {
+		background-image: url("../../assets/img/banner/1.png");
+		background-size: 193%;
+	    background-position: 0% 0%;
+	    background-repeat: no-repeat;
+	    padding-left: 0;
+	    padding-right: 0;
+	}
+	.banner-inner-wrap {
+		background-image: url("../../assets/img/banner/4.png");
+	    background-size: 93%;
+	    background-position: 117% -53%;
+	    background-repeat: no-repeat;
+	    padding: 0 30px;
+	    padding-bottom: 320px;
+	    padding-top: 109px;
+	}
+	.banner-social {
+	    position: absolute;
+	    min-width: 195px;
+	    transform: rotate(-90deg);
+        bottom: 83px;
+    	left: -76px;
+	}
+	.banner-social span {
+	    font-size: 8.5px;
+	}
+	.banner-social ul li a {
+	    font-size: 14px;
+	}
+	.banner-social ul li {
+	    margin-left: 12px;
+	}
+	.about-widget-wrap {
+	    padding-left: 30px;
+	}
+	.about-widget {
+	    margin-left: -20px;
+	}
+}
